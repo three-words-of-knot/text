@@ -22,5 +22,5 @@ git log //显示日志
 git status //显示当前存储库的状态
 git diff //暂存区和工作区的文件差异，加上具体指针以及文件名称即是版本库和工作区的差异
 git reset //回退版本
-
+git merge //需要在master分支当中进行合并
 ```
